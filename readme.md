@@ -34,10 +34,6 @@ youtube-category-redirect/
 1. Clone or download this repository to your computer.
 2. Open **Google Chrome** and navigate to:
 chrome://extensions/
-
-markdown
-Copy
-Edit
 3. Enable **Developer mode** (toggle on the top right).
 4. Click **Load unpacked**.
 5. Select the project folder (`youtube-category-redirect/`).
