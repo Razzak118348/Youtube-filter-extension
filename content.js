@@ -58,4 +58,4 @@ function filterVideosAndHideSearch() {
 }
 
 // Run every 1 second to hide new videos and search bar reliably
-setInterval(filterVideosAndHideSearch, 1000);
+setInterval(filterVideosAndHideSearch, 2000);
